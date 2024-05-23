@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=becxagy&label=Profile%20views&color=0e75b6&style=flat" alt="becxagy" /> </p>
 
-- 🔭 I’m currently working on **Emile**
+- 🔭 I’m currently working on **my trail**
 
 - 🌱 I’m currently learning **Next.js, Spring Boot and Flutter**
 
