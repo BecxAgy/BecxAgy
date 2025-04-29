@@ -2,11 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=becxagy&label=Profile%20views&color=0e75b6&style=flat" alt="becxagy" /> </p>
 
-- 🔭 I’m currently working on **my trail**
-
-- 🌱 I’m currently learning **Next.js, Spring Boot and Flutter**
-
-- 👯 I’m looking to collaborate on **App Doações**
+- 🌱 I’m currently working with **Next.js, Spring Boot and Java ServerFaces**
 
 - 👨‍💻 Find my portfolio at [https://portfolio-becx.vercel.app/](https://portfolio-becx.vercel.app/)
 
